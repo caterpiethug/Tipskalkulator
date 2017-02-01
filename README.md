@@ -1,0 +1,2 @@
+# Tipskalkulator
+Tipskalkulator for eksamen
